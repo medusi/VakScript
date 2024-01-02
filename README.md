@@ -49,3 +49,5 @@ https://github.com/vakdev/VakScript/assets/93299015/d8412240-c2dc-45fd-a7aa-d93b
 - Discord group: https://discord.gg/esSaFu6kGu
 - Discord: Vakdev Zet#5964
 - YouTube: https://www.youtube.com/@vakdev881
+
+
